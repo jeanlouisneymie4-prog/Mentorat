@@ -1,19 +1,20 @@
 # Mentorat
-Le mentorat est une relation interpersonnelle de soutien et d'accompagnement entre une personne experimentee ,appelee mentor,et une personne moins experimentee,appelee mentore.L'objectif est que le mentorat partage son 
+Le mentorat est une relation interpersonnelle de soutien et d'accompagnement entre une personne experimentee ,appelee mentor,et une personne moins experimentee,appelee mentore.L'objectif est que le mentorat partage son experience ,ses connaissances et ses conseils pour favoriser le developpement professionnel et personnel du mentore.
+# Membres du groupe
 - Bertrand Rudderson
 - Jean Louis Neymie
 - Jean Saurel Dagrin
 - Turin Dahve Mario Chydlei
 # User Stories
+
 # Must have
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
 - [x] L’utilisateur peut creer et personnaliser un profil professionnel complet refletant ses competences ,experiences et aspirations.
-- [x] L’utilisateur peut rechercher et etre mis en relation avec un mentor ou un mentore correspondant a ses besoins specifique selon des criteres precis(domaine,competences,objectifs).
-- [x] L’utilisateur peut definir ,suivre et ajuster ses objectifs personnels et professionnels dans l'application.
-- [x] L’utilisateur peut comminiquer facilement avec son mentor ou mentore via des messages intergres,appel ou visioconferences.
-- [x] L’utilisateur peut acceder a des ressources et contenus pertinents pour son  developpement professionnel
-- [x] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
-- [x] L’utilisateur peut lire une section decrivant l'application
+- [] L’utilisateur peut rechercher et etre mis en relation avec un mentor ou un mentore correspondant a ses besoins specifique selon des criteres precis(domaine,competences,objectifs).
+- [] L’utilisateur peut definir ,suivre et ajuster ses objectifs personnels et professionnels dans l'application.
+- [] L’utilisateur peut comminiquer facilement avec son mentor ou mentore via des messages intergres,appel ou visioconferences.
+- [] L’utilisateur peut acceder a des ressources et contenus pertinents pour son  developpement professionnel
+- [x] L'utilisateur peut
 - [x] L'utilisateur peut se deconnecter de l'application
 - [ ] L'utilisateur peut supprimer son compte
 # Maybe
